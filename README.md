@@ -2,7 +2,7 @@
 
 # Resources for Artists in Tech
 
-Resources for practicing artists transitioning to jobs in software engineering / UX etc. posted by artists already in the field. If you have a link you'd like to contribute make a pull request or post something in the discord chat linked below!
+Resources for practicing artists transitioning to jobs in software engineering / UX etc. If you have a link you'd like to contribute make a pull request or post something in the discord chat linked below!
 
 [>> Discord Community Link](https://discord.gg/3vdb6rk24D)
 
