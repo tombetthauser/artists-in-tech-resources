@@ -1,4 +1,4 @@
-<!-- ![](https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg) -->
+![](https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg)
 
 # Resources for Artists in Tech
 
