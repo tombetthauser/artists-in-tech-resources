@@ -16,9 +16,9 @@ Resources for practicing artists transitioning to jobs in software engineering /
 
 * Great Online Bootcamps / Coding Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
 
-## Contact
+## Contacts
 
-* Tom Betthauser – Fullstack Engineer / MFA Painting – [github](https://github.com/tombetthauser/) | [instagram](http://instagram.com/tombetthauser/) | [linkedin](https://www.linkedin.com/in/tombetthauser/)
+* Tom Betthauser – Software Instructor / MFA Painting – [github](https://github.com/tombetthauser/) | [instagram](http://instagram.com/tombetthauser/) | [linkedin](https://www.linkedin.com/in/tombetthauser/)
 
 <!-- 
 
