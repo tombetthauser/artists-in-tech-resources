@@ -10,17 +10,21 @@ Som scattered resources for practicing artists transitioning to jobs in software
 
 * Who is hiring? (July 2021) – [Hacker News Link](https://news.ycombinator.com/item?id=27699704)
 
-## Resources
-
-* Cracking the Coding Interview (book) by Gayle McDowell – [Amazon Link](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=2G7K9BD9HSQ1J&dchild=1&keywords=cracking+the+coding+interview&qid=1625180279&sprefix=cracking+the+%2Caps%2C240&sr=8-1)
-
-* Great Online Bootcamps / Coding Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
-
-* Algo Expert / Coding Interview Practice – [Website Link](https://www.algoexpert.io/)
+## Beginner Resources
 
 * Free Coding Tutorials by Alvin Zablan – [YouTube Link](https://www.youtube.com/channel/UCilIG8V10ZGXaLHxvEa_UfA/videos)
 
+* Great Online Bootcamps / Coding Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
+
 * Best Coding Bootcamps 2021 / BestColleges – [Website Link](https://www.bestcolleges.com/bootcamps/find-bootcamps/best-coding-bootcamps/)
+
+
+## Intermediate Resources
+
+* Cracking the Coding Interview (book) by Gayle McDowell – [Amazon Link](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=2G7K9BD9HSQ1J&dchild=1&keywords=cracking+the+coding+interview&qid=1625180279&sprefix=cracking+the+%2Caps%2C240&sr=8-1)
+
+* Algo Expert / Coding Interview Practice – [Website Link](https://www.algoexpert.io/)
+
 
 ## Contacts
 
