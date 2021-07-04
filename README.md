@@ -25,6 +25,10 @@ Som scattered resources for practicing artists transitioning to jobs in software
 
 * Algo Expert / Coding Interview Practice – [Website Link](https://www.algoexpert.io/)
 
+* Free Coding Tutorials by Alvin Zablan – [YouTube Link](https://www.youtube.com/channel/UCilIG8V10ZGXaLHxvEa_UfA/videos)
+
+* Great Online Bootcamps / Coding Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
+
 
 ## Contacts
 
