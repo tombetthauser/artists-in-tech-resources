@@ -14,7 +14,7 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 
 * Free Coding Tutorials by Alvin Zablan – [YouTube Link](https://www.youtube.com/channel/UCilIG8V10ZGXaLHxvEa_UfA/videos)
 
-* Great Online Bootcamps / Coding Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
+* 2021 Web Developer Bootcamp by Colt Steele – [Udemy Link](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 * Best Coding Bootcamps 2021 / BestColleges – [Website Link](https://www.bestcolleges.com/bootcamps/find-bootcamps/best-coding-bootcamps/)
 
@@ -27,7 +27,7 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 
 * Free Coding Tutorials by Alvin Zablan – [YouTube Link](https://www.youtube.com/channel/UCilIG8V10ZGXaLHxvEa_UfA/videos)
 
-* Great Online Bootcamps / Coding Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
+* Great Intermediate Online Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
 
 
 ## Contacts
