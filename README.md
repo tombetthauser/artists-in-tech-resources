@@ -1,6 +1,6 @@
 ![](https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg)
 
-# Resources for Artists / Art Students Getting into Tech
+# Resources for Artists & Art Students Getting into Tech
 
 Some scattered resources for practicing artists transitioning to jobs in software engineering / UX etc. If you have a link you'd like to contribute make a pull request or post something in the discord chat linked below!
 
