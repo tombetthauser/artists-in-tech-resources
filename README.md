@@ -1,4 +1,5 @@
-![](https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg)
+<!-- ![](https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg) -->
+<img src="https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg" width="500px"/>
 
 # Resources for Artists & Art Students Getting into Tech
 
