@@ -49,4 +49,6 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 
 * Tom Betthauser - [Github](https://github.com/tombetthauser) | [Linkedin](https://www.linkedin.com/in/tombetthauser/)
 
-(Note: if you want to add anything to any of these sections just make a pull request!)
+---
+
+Note: if you want to add anything to any of these sections just make a pull request!
