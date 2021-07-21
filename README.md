@@ -30,3 +30,11 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 * Free Introduction to Algorithms from MIT – [YouTube Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 * Free Datastructures and Algorithms Course from MIT – [YouTube Link](https://www.youtube.com/playlist?list=PLkToMFwOtNHiJtcBu0piSLKnLVGOF9vaV)
+
+* Frontend Hero Tutorials - [Site Link](https://www.frontendhero.dev/)
+
+* Grid Garden CSS Game / Tutorial - [Site Link](https://cssgridgarden.com/)
+
+* Flexbox Froggy CSS Game / Tutorial - [Site Link](https://flexboxfroggy.com)
+
+* Codepip CSS Games / Tutorials (maker of flexbox froggy) - [Site Link](https://codepip.com/games/)
