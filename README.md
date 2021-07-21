@@ -16,6 +16,8 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 
 * Best Coding Bootcamps 2021 / BestColleges – [Website Link](https://www.bestcolleges.com/bootcamps/find-bootcamps/best-coding-bootcamps/)
 
+* Indeed Phone Screen Questions - [Site Link](https://www.indeed.com/career-advice/interviewing/software-engineering-phone-interview-questions)
+
 
 ## Intermediate Resources
 
