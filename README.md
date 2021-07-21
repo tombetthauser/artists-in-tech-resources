@@ -1,7 +1,4 @@
-<!-- ![](https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg) -->
-<img src="https://knoxoakville.com/1833/wp-content/uploads/2015/08/crayons-banner.jpg" width="500px"/>
-
-# Resources for Artists & Art Students Getting into Tech
+# Resources for Artists Getting into Tech
 
 Some scattered resources for practicing artists transitioning to jobs in software engineering / UX etc. If you have a link you'd like to contribute make a pull request or post something in the discord chat linked below!
 
@@ -29,24 +26,3 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 * Free Coding Tutorials by Alvin Zablan – [YouTube Link](https://www.youtube.com/channel/UCilIG8V10ZGXaLHxvEa_UfA/videos)
 
 * Great Intermediate Online Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
-
-
-## Contacts
-
-* Tom Betthauser – Software Instructor / MFA Painting – [github](https://github.com/tombetthauser/) | [instagram](http://instagram.com/tombetthauser/) | [linkedin](https://www.linkedin.com/in/tombetthauser/)
-
-<!-- 
-
-Some Artists who Code?
-
-https://www.culturefoundry.com/
-
-https://www.linkedin.com/in/kate-ruggeri/
-
-https://www.linkedin.com/in/mbroach/
-
-https://www.linkedin.com/in/chriskeith/
-
-https://www.linkedin.com/school/yale-university/people/?facetCurrentFunction=8&keywords=MFA%2Csoftware%20engineer 
-
--->
