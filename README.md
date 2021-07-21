@@ -40,6 +40,8 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 * Flexbox Froggy CSS Game / Tutorial - [Site Link](https://flexboxfroggy.com)
 
 * Codepip CSS Games / Tutorials (maker of flexbox froggy) - [Site Link](https://codepip.com/games/)
+* Grokking the System Design Interview - [Site Link](https://www.educative.io/courses/grokking-the-system-design-interview)
+* Systems Expert / System Design Course - [Site Link](https://www.algoexpert.io/systems/product)
 
 
 ## Cool Companies
