@@ -38,3 +38,13 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 * Flexbox Froggy CSS Game / Tutorial - [Site Link](https://flexboxfroggy.com)
 
 * Codepip CSS Games / Tutorials (maker of flexbox froggy) - [Site Link](https://codepip.com/games/)
+
+
+## Cool Companies
+
+* New Story / Concrete Printed Homes for Underserved Communities - [Homepage Link](https://newstorycharity.org/3d-community/)
+
+
+## Contacts
+
+* Tom Betthauser - (Github)[https://github.com/tombetthauser] | (Linkedin)[https://www.linkedin.com/in/tombetthauser/]
