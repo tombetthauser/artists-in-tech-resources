@@ -26,3 +26,7 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 * Free Coding Tutorials by Alvin Zablan – [YouTube Link](https://www.youtube.com/channel/UCilIG8V10ZGXaLHxvEa_UfA/videos)
 
 * Great Intermediate Online Courses by Colt Steele – [Udemy Link](https://www.udemy.com/user/coltsteele/)
+
+* Free Introduction to Algorithms from MIT – [YouTube Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+
+* Free Datastructures and Algorithms Course from MIT – [YouTube Link](https://www.youtube.com/playlist?list=PLkToMFwOtNHiJtcBu0piSLKnLVGOF9vaV)
