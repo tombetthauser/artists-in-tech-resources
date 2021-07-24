@@ -18,6 +18,8 @@ Some scattered resources for practicing artists transitioning to jobs in softwar
 
 * Indeed Phone Screen Questions - [Site Link](https://www.indeed.com/career-advice/interviewing/software-engineering-phone-interview-questions)
 
+* Intro to Building Python Applications / Udemy Course - [Udemy Link](https://www.udemy.com/course/the-python-mega-course/)
+
 
 ## Intermediate Resources
 
