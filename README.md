@@ -1,4 +1,4 @@
-# Resources for Artists Getting into Tech
+# Some Resources for Artists Getting into Tech
 
 Some scattered resources for practicing artists transitioning to jobs in software engineering / UX etc. If you have a link you'd like to contribute make a pull request or post something in the discord chat linked below!
 
