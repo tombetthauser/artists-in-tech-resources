@@ -2,11 +2,15 @@
 
 Some scattered resources for practicing artists transitioning to jobs in software engineering / UX etc. If you have a link you'd like to contribute make a pull request or post something in the discord chat linked below!
 
-[>> Discord Community Link](https://discord.gg/3vdb6rk24D)
+[>> More Resources on Discord](https://discord.gg/3vdb6rk24D)
 
-## Jobs
+## Writing
 
-* Who is hiring? (July 2021) – [Hacker News Link](https://news.ycombinator.com/item?id=27699704)
+* Coding Bootcamp after Art School – [Substack Article](https://tombetthauser.substack.com/)
+
+<!-- ## Jobs
+
+* Who is hiring? (July 2021) – [Hacker News Link](https://news.ycombinator.com/item?id=27699704) -->
 
 ## Beginner Resources
 
